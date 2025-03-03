@@ -56,6 +56,4 @@ Choose the method based on your project needs!
 
 ---
 
-## File Naming
-Save this document as `README.md` in your project directory to provide clear setup instructions.
 
